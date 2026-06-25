@@ -1,0 +1,17 @@
+my_set = {1,2,2,33,1,2,56,87,6,5,1,3,3,3,3,3,3}
+if 2 in my_set:
+    print(True)
+my_set.pop()
+print(my_set)
+my_set.add("aaaaa")
+print(my_set)
+my_set.remove(87)
+print(my_set)
+my_set.discard("dfdfd")
+print(my_set)
+print(len(my_set))
+print(my_set)
+my_set.clear()
+print(my_set)
+del(my_set)
+print(my_set)

@@ -1,0 +1,1 @@
+print("my Name is Akhil \nI am a b.tech graduate \nNow doing my internship at ihub Robotics.")
